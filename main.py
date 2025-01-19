@@ -1,4 +1,4 @@
-import openai
+import openai, KEY
 
 def input_text():
     pass
